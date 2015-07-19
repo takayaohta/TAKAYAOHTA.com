@@ -1,3 +1,7 @@
 サルでもわかるGitコマンド
 add 変更をインデックスに登録する git add <filename>
+<<<<<<< HEAD
 commit インデックスの状態を記録する git commit -m “comment”
+=======
+pull リモートリポジトリの内容を取得する
+>>>>>>> issue3
