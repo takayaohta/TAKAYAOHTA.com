@@ -5,6 +5,6 @@ DESIGNER / Art Director
 
 
 THIS IS TEST REPOSITORY for REDESIGNING MY PORTFOLIO WEBSITE.  
-<a href=“http://takayaohta.com” target=“_blank”>TAKAYAOHTA.com</a>
+http://TAKAYAOHTA.com
 
 MY PORTFOLIO WILL BE LAUNCHED in AUGUST.
