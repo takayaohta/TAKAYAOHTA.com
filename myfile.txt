@@ -1,2 +1,3 @@
 サルでもわかるGitコマンド
-add 変更をインデックスに登録する
+add 変更をインデックスに登録する git add <filename>
+commit インデックスの状態を記録する git commit -m “comment”
