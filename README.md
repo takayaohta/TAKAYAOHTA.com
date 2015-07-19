@@ -1,3 +1,5 @@
+![COVER](http://takayaohta.com/img/ogp.png)
+
 THIS IS TEST REPOSITORY for REDESIGNING MY PORTFOLIO WEBSITE.  
 http://TAKAYAOHTA.com
 
