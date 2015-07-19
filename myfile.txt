@@ -1,2 +1,3 @@
 初期化
-issue1にて編集
+Edited by branch:issue1
+success : push branch:issue to repository
